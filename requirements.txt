@@ -4,3 +4,4 @@ Jinja2==2.11.2
 Keras==2.4.3
 numpy==1.18.5
 opencv-python==4.4.0.44
+gunicorn==20.0.4
